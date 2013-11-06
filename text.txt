@@ -7,3 +7,5 @@ edited....
 another text
 
 more text
+
+...... new text
